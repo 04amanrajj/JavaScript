@@ -12,7 +12,7 @@ function add(){
     let a =10
     let b=20
     console.log(a+b);
-}
+} 
 
 function minus(){
     let x =10
