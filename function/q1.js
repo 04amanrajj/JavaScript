@@ -12,7 +12,7 @@ function multi(){
 }
 function devide(){
     let d=6/2
-    console.log(d)
+    console.log(d) 
 }
 
 add();
