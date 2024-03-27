@@ -7,7 +7,7 @@ function jerry(z) {
 function bob(z) {
   return z / 10;
 }
-function oggy(z) {
+function oggy(z) { 
   return z + 10;
 }
 let step1 = tom(10, 10);
