@@ -3,6 +3,6 @@ function divisibalby3(x){
         console.log("true")
     }else{
         console.log("false")
-    }
+    } 
 }
 divisibalby3(7)
