@@ -8,4 +8,4 @@ function mapChar(N) {
 const userInput = process.argv[2];
 
 console.log("User input:", userInput);
-mapChar(userInput);
+mapChar(userInput); 
