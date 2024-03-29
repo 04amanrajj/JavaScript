@@ -6,7 +6,7 @@ let obj = {
   isMarried: true
 }
 
-obj["location"] = "Goa";
+obj["location"] = "Goa"; 
 obj["isMarried"] = false;
 // deleting an obj
 delete obj["age"];
