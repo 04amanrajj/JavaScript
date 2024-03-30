@@ -5,4 +5,4 @@ function divisibalby3(x){
         console.log("false")
     }  
 }
-divisibalby3(7)
+divisibalby3(7) 
