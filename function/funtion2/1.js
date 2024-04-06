@@ -1,4 +1,4 @@
-// finding last and first index ofan array
+// finding last and first index ofan array 
 let pc = ["cpu", "ram", "gpu", "psu", "ram"];
 box = pc.lastIndexOf("ram");
 console.log(box); //output 
