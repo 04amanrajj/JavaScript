@@ -5,4 +5,3 @@ console.log(box); //output
 box2=pc.indexOf("ram")
 console.log(box2); 
  
-
