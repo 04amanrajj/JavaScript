@@ -3,7 +3,7 @@
 // let b=20
 // console.log(a+b);
  
-// let x =10
+// let x =10 
 // let  y=5
 // console.log(x-y);
 // new tv
