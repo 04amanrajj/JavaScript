@@ -5,4 +5,4 @@ function call() {
     }
 }
  
-call();
+call(); 
